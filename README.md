@@ -1,10 +1,10 @@
 # 👋 Hey there, I’m Austin Loucks
 
-## 👨‍💻 Full-Stack Web Developer | U.S. Navy Veteran | Lifelong Learner
+## 👨‍💻 Software Developer | U.S. Navy Veteran | Lifelong Learner passionate about building scalable, meaningful, user-focused apps.
 
 Welcome to my GitHub!
 
-I’m a full-stack web developer currently completing an intensive web development apprenticeship with [Creating Coding Careers](https://creatingcodingcareers.com/), where I’m building responsive, user-centered applications using technologies like JavaScript, React, Node.js, and Express. My development philosophy is grounded in clean code, collaborative teamwork, and continuous learning.
+I’m a Software developer currently completing an intensive software development apprenticeship with [Creating Coding Careers](https://creatingcodingcareers.com/), where I’m building responsive, user-centered applications using technologies like JavaScript, React, Node.js, and Express. My development philosophy is grounded in clean code, collaborative teamwork, and continuous learning.
 
 ---
 
@@ -26,9 +26,9 @@ HTML • CSS • JavaScript • React • Node.js • Express • SQL • Git �
 
 Some of my recent and ongoing projects include:
 
-- **Change Calculator App** – A utility tool to calculate optimal change breakdowns.
-- **San Diego Top Spots** – A city guide using Google Maps integration and JSON data.
-- **Astro Weight Calculator** – A fun, animated app calculating your weight on different planets.
+- [**Change Calculator App**](https://github.com/Lojack35/change-calculator) – A utility tool to calculate optimal change breakdowns.
+- [**San Diego Top Spots**](https://github.com/Lojack35/san-diego-top-spots) – A city guide using Google Maps integration and JSON data.
+- [**Astro Weight Calculator**](https://github.com/Lojack35/astro-weight-calculator) – A fun, animated app calculating your weight on different planets.
 
 ---
 
