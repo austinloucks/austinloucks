@@ -1,6 +1,6 @@
 # 👋 Hey there, I’m Austin Loucks
 
-## 👨‍💻 Software Developer | U.S. Navy Veteran | Lifelong Learner passionate about building scalable, meaningful, user-focused apps.
+## 👨‍💻 Software Developer | U.S. Navy Veteran | Lifelong learner passionate about building scalable, meaningful, user-focused apps.
 
 Welcome to my GitHub!
 
