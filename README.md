@@ -1,38 +1,25 @@
-# 👋 Hey there, I’m Austin Loucks
+# 👋 Hi, I'm Austin Loucks
 
-## 👨‍💻 Software Developer | U.S. Navy Veteran | Lifelong learner passionate about building scalable, meaningful, user-focused apps.
+I'm a U.S. Navy veteran and **Software Developer** passionate about solving real-world problems with clean, efficient code.
 
-Welcome to my GitHub!
+🌱 **Currently learning:**
+- TypeScript (If you know great free resources, feel free to share!)
+- Building a portfolio with EJS, Node.js, and Vercel deployment
 
-I’m a Software developer currently completing an intensive software development apprenticeship with [Creating Coding Careers](https://creatingcodingcareers.com/), where I’m building responsive, user-centered applications using technologies like JavaScript, React, Node.js, and Express. My development philosophy is grounded in clean code, collaborative teamwork, and continuous learning.
+🚀 **Recent Projects:**
+- 🧙‍♂️ [D&D Character Generator](https://react-100-hackathon.vercel.app/)  
+  A fully playable character builder using React, OpenAI image generation, and custom form logic.
+- 🏡 [Mortgage Calculator](https://mortgage-calculator-seven-inky.vercel.app/)  
+  A clean, responsive tool for calculating mortgage payments with real-time input validation.
 
----
+🛠️ **Tech Stack:**
+JavaScript • React.js • Node.js • Express.js • REST APIs  
+MongoDB • MySQL • Bootstrap • HTML • CSS • Git & GitHub • Vite • Vercel
 
-### ⚡ Quick Facts
-- ⚙️ 5 years of military experience in high-stakes environments leading technical teams and managing complex electrical systems.
-- 🧠 Currently mastering full-stack development with a focus on modern JavaScript ecosystems.
-- 💡 Passionate about translating complex problems into intuitive user experiences.
-- 🚀 Actively looking for opportunities to contribute to real-world projects, open-source initiatives, and agile teams.
-
----
-
-### 🧰 Tech Stack
-HTML • CSS • JavaScript • React • Node.js • Express • SQL • Git • GitHub • APIs
-
----
-
-### 🚀 Featured Projects
-🔧 Check out my repositories [here](https://github.com/Lojack35?tab=repositories)
-
-Some of my recent and ongoing projects include:
-
-- [**Change Calculator App**](https://github.com/Lojack35/change-calculator) – A utility tool to calculate optimal change breakdowns.
-- [**San Diego Top Spots**](https://github.com/Lojack35/san-diego-top-spots) – A city guide using Google Maps integration and JSON data.
-- [**Astro Weight Calculator**](https://github.com/Lojack35/astro-weight-calculator) – A fun, animated app calculating your weight on different planets.
+📬 **Let's Connect:**
+[LinkedIn](https://www.linkedin.com/in/austin-loucks)
 
 ---
 
-### 📫 Let’s Connect!
-- 📍 Chula Vista, CA  
-- 📧 [austinokc35@gmail.com](mailto:austinokc35@gmail.com)  
-- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/austin-loucks)  
+> “I treat my career like a product — always improving, always shipping.” – inspired by Jerome Hardaway
+
