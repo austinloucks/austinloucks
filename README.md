@@ -3,8 +3,9 @@
 I'm a U.S. Navy veteran and **Software Developer** passionate about solving real-world problems with clean, efficient code.
 
 🌱 **Currently learning:**
-- TypeScript (If you know great free resources, feel free to share!)
+- TypeScript
 - Building a portfolio with EJS, Node.js, and Vercel deployment
+- CI/CD
 
 🚀 **Recent Projects:**
 - 🧙‍♂️ [D&D Character Generator](https://react-100-hackathon.vercel.app/)  
